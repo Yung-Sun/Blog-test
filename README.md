@@ -25,7 +25,7 @@
 
 ![mad](https://github.com/Yung-Sun/Blog-test/blob/master/G%20fat.jpg)
 
-##其实现在是有接触过一些简单的HTML\CSS\JS🧐
+## 其实现在是有接触过一些简单的HTML\CSS\JS🧐
 
 ```javascript
  var a = "Hello World"
