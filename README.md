@@ -23,7 +23,7 @@
 * 🤔其实我还喜欢看土味视频（怪癖？）
 * 👾[Steam](www.steam.com)（快乐园地）
 
-![mad](./G fat.jpg)
+![mad]()
 
 ##其实现在是有接触过一些简单的HTML\CSS\JS🧐
 
